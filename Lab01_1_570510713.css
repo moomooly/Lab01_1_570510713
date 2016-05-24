@@ -1,0 +1,35 @@
+/*
+* @Author: Chappie
+* @Date:   2016-05-24 06:34:26
+* @Last Modified by:   Chappie
+* @Last Modified time: 2016-05-24 07:06:43
+*/
+body {
+    background-color: #ecf0f1;
+}
+
+.header {
+    color: lightblue;
+    border: 10px solid darkblue;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+}
+h3{
+
+}
+.table{
+    text-align: center;
+}
+.green{
+    color: lightgreen;
+    text-align: center;
+}
+.red{
+    color: red;
+    text-align: center;
+}
+.blue{
+    color: blue;
+    text-align: center;
+}
